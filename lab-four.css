@@ -1,0 +1,9 @@
+.window{
+    position: fixed;
+    width: max-content;
+    height: max-content;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 3px;
+}
+
